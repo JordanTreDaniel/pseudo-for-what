@@ -42,22 +42,22 @@ slides = [
     {
         imgUrl: "https://media.giphy.com/media/xT5LMOhPGwPSf1J94s/giphy.gif",
         title: "Step 1: Decide on the main objective",
-        desc: "",
+        desc: "Simply decide what you have, and determine what you want to do in the end.",
     },
     {
         imgUrl: "https://media.giphy.com/media/3orieQihlYE7eAmDQY/giphy.gif",
         title: "Step 2: Define your steps",
-        desc: "",
+        desc: "Come up with a list of steps to get there. These can be in plain English, not even code!",
     },
     {
         imgUrl: "https://media.giphy.com/media/3o6MbbjLcA6y7YhojK/giphy.gif",
         title: "Step 3: Walk through them, anticipating everything you can.",
-        desc: "",
+        desc: "The more you walk through, the closer your pseudo code can get to real code.",
     },
     {
         imgUrl: "https://media.giphy.com/media/klZBxHoFLN44M/giphy.gif",
         title: "Step 4: Code and Be Happy",
-        desc: "",
+        desc: "Knock your steps out one at a time, (hopefully) stress free :)",
     },
 ]
 var imgContainer = document.getElementById("imgContainer");
