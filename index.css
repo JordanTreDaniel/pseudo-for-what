@@ -1,3 +1,13 @@
 h1 {
     color: green;
 }
+body {
+    display: flex;
+    justify-content: space-evenly;
+}
+li {
+    font-size: 1.5em;
+}
+ol > li {
+    font-size: 1em;
+}
